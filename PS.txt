@@ -19,7 +19,7 @@ If you are plugging numbers into a spreadsheet (like Excel or Google Sheets) to 
 Important Note on True Generics: In your example (x - 3mg vs x - 3.5mg), those two products are not exact generic equivalents—they are different strengths or therapeutic alternatives. A true generic substitute must have the exact same active ingredient(s) in the exact same normalized strength per unit dose. Always verify any strength or unit difference with a pharmacist or doctor before switching.
 If you'd like to share the exact labels (or the names and unit strengths) of both medicines, I can normalize the units into a clean side-by-side comparison table for you.
 
-
+plan + price - tablets - say 10, price saved, daily intake, add several, download a plan go and buy 3X and 4X and enjoy for 30/40 days
 no central meds db, build it tho, 
 kinda same ui and mock terminal
 web app + website, no app
