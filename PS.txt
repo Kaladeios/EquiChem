@@ -1,0 +1,59 @@
+To normalize and compare medicine compositions—especially when one label uses mg or mcg and another uses % w/v, % w/w, or % v/v—you need a combination of pharmaceutical unit converters and salt-composition comparison platforms.
+Currently, no single consumer app automatically parses complex multi-ingredient labels and converts mixed percentage units side-by-side in one click. Instead, you can use specialized software calculators to normalize the math first, then cross-check the active salts.
+1. Pharmaceutical Unit Conversion Calculators (For Normalizing %w/v, %w/w, & mg)
+When comparing two formulations (such as syrups, drops, creams, or solutions), these tools normalize percentages into standard mass-per-volume (mg/mL) or mass-per-mass (mg/g) values so you can compare them on equal footing:
+PharmacyFreak Pharmacy Unit Converter (https://www.google.com/goto?url=CAESbwHEIkXXbWhduPs_vnUufeDQIl4gdEq1FnB9AS08a4J36wAaDgNgewKpmLSaTNU1XCn30WTuWqfwbh0o2QPGV_AQMIvqm-WaqFtZYPI0f0TVukf8puyJTkfjCCmVrAbj5wVA_0h5qm0rnpX_T13BLQ): A web tool built specifically for pharmacy math that converts % w/v, mg/mL, mcg, and dosing concentrations with built-in clinical logic. [1 (https://www.google.com/goto?url=CAESbwHEIkXXbWhduPs_vnUufeDQIl4gdEq1FnB9AS08a4J36wAaDgNgewKpmLSaTNU1XCn30WTuWqfwbh0o2QPGV_AQMIvqm-WaqFtZYPI0f0TVukf8puyJTkfjCCmVrAbj5wVA_0h5qm0rnpX_T13BLQ)]
+MDCalculator Drug Dosage Unit Conversion Calculator (https://www.google.com/goto?url=CAESdgHEIkXX5qQ6I6wH01XyN47lBBeFnSaFL3zb1Xz7EgwLWe07zD8Y2KTvTcgVIHgvw2bY_7HcolefH1XTy-1JeZ0NrMWnOQ1Izi1pMFD12NdZUKtBRm3PJ2duqifJy99vhV9wU_SQcxkpcexpEjYoLSDf8_ByoJQ): Converts percentage solutions directly into mg/mL, switches between mg, mcg, and g, and shows the exact formula used so you can verify your numbers. [1 (https://www.google.com/goto?url=CAESdgHEIkXX5qQ6I6wH01XyN47lBBeFnSaFL3zb1Xz7EgwLWe07zD8Y2KTvTcgVIHgvw2bY_7HcolefH1XTy-1JeZ0NrMWnOQ1Izi1pMFD12NdZUKtBRm3PJ2duqifJy99vhV9wU_SQcxkpcexpEjYoLSDf8_ByoJQ)]
+BioProcess Tools Concentration Unit Converter (https://www.google.com/goto?url=CAEScQHEIkXXuPKGHx3irlbdE02eEvtEKtTl5ippf0fBwvnk6pDWpGYmlC_5WEbQufXRqi8CoyPEmih-bP3qgWzG1TICDuJhYdPRqmaEf56c1_GglPQF9CJ3vfIEEwY1i5jW6hNWgjx3KuycCauzG9R7l8KQ): Useful for converting between % w/v, mg/mL, and ppm when comparing liquid formulations. [1 (https://www.google.com/goto?url=CAEScQHEIkXXuPKGHx3irlbdE02eEvtEKtTl5ippf0fBwvnk6pDWpGYmlC_5WEbQufXRqi8CoyPEmih-bP3qgWzG1TICDuJhYdPRqmaEf56c1_GglPQF9CJ3vfIEEwY1i5jW6hNWgjx3KuycCauzG9R7l8KQ)]
+Omni Calculator mg to mL Converter (https://www.google.com/goto?url=CAESbwHEIkXXR3wnIALTe4v5GdNbYzOMuWD1-QPAl-EF11xWimrEZMwDfRZleeqtYIC-XwRoEi0e0a_Vj10NuIz8SaTrbR13-FPTuCFx--0pCuS4Fx4dm_aqJ7qmBt_6siFd5Sivd3VHuq_MRBZPR574NA): Helps normalize weight and volume when a generic label expresses an ingredient by volume (mL or % v/v) while the branded version lists weight (mg), factoring in substance density. [1 (https://www.google.com/goto?url=CAESbwHEIkXXR3wnIALTe4v5GdNbYzOMuWD1-QPAl-EF11xWimrEZMwDfRZleeqtYIC-XwRoEi0e0a_Vj10NuIz8SaTrbR13-FPTuCFx--0pCuS4Fx4dm_aqJ7qmBt_6siFd5Sivd3VHuq_MRBZPR574NA)]
+2. Salt & Composition Comparison Tools
+If you want to check whether a generic medicine matches your branded prescription's exact active ingredients and release profile without doing manual lookups:
+Medkart Medicine Comparison Tool (https://www.google.com/goto?url=CAESZQHEIkXX2p3rggf1mUNxcMa2_ut1iEtWoW7eT-zMvVazu66gSUXSyYMejle8ThqPrOXSJbCCk4hrsHYWHvadxuGAdgDkCBdeHHiBZ3vB69les0A3v6x0-ldMoJNMKvadpRlujQ-Z): Designed for Indian medicines, this web tool compares branded and generic drugs side-by-side by active salt composition, strength, and even release patterns (e.g., sustained-release vs. immediate-release).
+MedCompare (https://www.google.com/goto?url=CAESUwHEIkXXjYprWVKCqMFE90bBQTgGP8bATH4Y1ca8-sk58nyYVO7O-CPO7PlieM31vMiDN67GtulaedTRpgWDgusXpQ10HxrS8XjEEKAKct_jb-1X): Allows you to search a medicine by name to pull up exact generic substitutes that share the identical salt composition and strength.
+Drugs.com Drug Comparison Tool (https://www.google.com/goto?url=CAESWwHEIkXX0sfdZf11b4yr7AmxpRC3p8IvkThWQAmRrA_WgUNZaVOjiTUakG78gn0qmibe64_CT7T8cIP7RnDzqcfmWpNJI1hVLg5jNLJk631gsy45TMaK6s59AcU): Useful for international formulations to compare active ingredients, dosage forms, and clinical profiles side-by-side. [1 (https://www.google.com/goto?url=CAESZQHEIkXX2p3rggf1mUNxcMa2_ut1iEtWoW7eT-zMvVazu66gSUXSyYMejle8ThqPrOXSJbCCk4hrsHYWHvadxuGAdgDkCBdeHHiBZ3vB69les0A3v6x0-ldMoJNMKvadpRlujQ-Z), 2 (https://www.google.com/goto?url=CAES3AEBxCJF1zXvzdqtB5jvqPMRxx2iCmZgVMZdpnlRGEfrWsq2Jaoo8-AVeUQgFFry4Xg1FRIN4ijxPV1trBcjYvDdeIFn3aEF7_X-5Wk3Qbm_8EfWvjhqX_j08lofzINTVEnJ0enpUyvljSOmpUL-6YtNxwOYNT13b4OPAOHa_plQSXzrLStlILWXsFONiueGTUz3h8Ol9lsX22rdhWnG_8EqNusbjuVfvw1tyvrPNtw385lZWtD38DE2B9OSYJRd_JAoHsw3BY180Ciz3LM4qmCYjKh1mQLVfFH5rINR), 3 (https://www.google.com/goto?url=CAESUwHEIkXXjYprWVKCqMFE90bBQTgGP8bATH4Y1ca8-sk58nyYVO7O-CPO7PlieM31vMiDN67GtulaedTRpgWDgusXpQ10HxrS8XjEEKAKct_jb-1X), 4 (https://www.google.com/goto?url=CAESWwHEIkXX0sfdZf11b4yr7AmxpRC3p8IvkThWQAmRrA_WgUNZaVOjiTUakG78gn0qmibe64_CT7T8cIP7RnDzqcfmWpNJI1hVLg5jNLJk631gsy45TMaK6s59AcU)]
+3. Quick Formula Reference to Normalize Labels Yourself
+If you are plugging numbers into a spreadsheet (like Excel or Google Sheets) to compare multiple ingredients at once, use these standard pharmaceutical conversions to put every ingredient into mg per 1 mL (or 1 g):
+% w/v to mg/mL: Multiply the percentage by 10 (e.g., 1% w/v = 1 g per 100 mL = 10 mg/mL).
+% w/w to mg/g: Multiply the percentage by 10 (e.g., 2% w/w = 2 g per 100 g = 20 mg/g).
+% v/v to mL/mL: Divide the percentage by 100 (e.g., 7% v/v = 0.07 mL of active liquid per 1 mL of medicine). To convert that 0.07 mL into mg, multiply by the ingredient's density (mg/mL). [1 (https://www.google.com/goto?url=CAEScQHEIkXXuPKGHx3irlbdE02eEvtEKtTl5ippf0fBwvnk6pDWpGYmlC_5WEbQufXRqi8CoyPEmih-bP3qgWzG1TICDuJhYdPRqmaEf56c1_GglPQF9CJ3vfIEEwY1i5jW6hNWgjx3KuycCauzG9R7l8KQ), 2 (https://www.google.com/goto?url=CAESdgHEIkXX5qQ6I6wH01XyN47lBBeFnSaFL3zb1Xz7EgwLWe07zD8Y2KTvTcgVIHgvw2bY_7HcolefH1XTy-1JeZ0NrMWnOQ1Izi1pMFD12NdZUKtBRm3PJ2duqifJy99vhV9wU_SQcxkpcexpEjYoLSDf8_ByoJQ), 3 (https://www.google.com/goto?url=CAESbwHEIkXXR3wnIALTe4v5GdNbYzOMuWD1-QPAl-EF11xWimrEZMwDfRZleeqtYIC-XwRoEi0e0a_Vj10NuIz8SaTrbR13-FPTuCFx--0pCuS4Fx4dm_aqJ7qmBt_6siFd5Sivd3VHuq_MRBZPR574NA)]
+Important Note on True Generics: In your example (x - 3mg vs x - 3.5mg), those two products are not exact generic equivalents—they are different strengths or therapeutic alternatives. A true generic substitute must have the exact same active ingredient(s) in the exact same normalized strength per unit dose. Always verify any strength or unit difference with a pharmacist or doctor before switching.
+If you'd like to share the exact labels (or the names and unit strengths) of both medicines, I can normalize the units into a clean side-by-side comparison table for you.
+
+
+no central meds db, build it tho, 
+kinda same ui and mock terminal
+web app + website, no app
+compare, text + OCR
+price saved - no of tablets/doses
+point out that this tool wont flag safety, just a tool to check composition worthiness
+every ingredient check will require human research not ai/tech slop
+price saved - total cost vs tablet/dosage
+References
+https://youtube.com/shorts/4E1GzbkLhNU
+https://gazetinternational.com/medkart-launches-indias-first-tool-to-find-substitute-medicine-and-compare-prices-transforming-access-to-affordable-healthcare/
+https://bioprocesstools.com/concentration-converter/
+https://www.mdcalculator.com/dosage-conversion-calculator
+https://pharmacyfreak.com/pharmacy-unit-converter/
+https://medcompare.in/
+https://www.ijert.org/title-medsgen-a-comprehensive-platform-for-generic-medicine-identification-and-access
+
+
+Advanced
+Energy value table
+
+Units
+mg/mcg
+IU like Vitamin E Acetate - 1 IU
+Excipients qs
+corresponding %RDA table
+other ingredients
+
+Chemical ingredients only like moisturizzers
+1,2 di...., etc
+
+towards personal medical awareness
+first aid kit check
+turniquet, cpr, oxygen
+tests - yearly
+blood donation, allergy, emergency, organ donation
+navigatong personal health journey from birth to death
